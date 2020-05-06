@@ -185,9 +185,9 @@ text-align: center;
 
 /*Animations*/
 @keyframes topcloud {
-    0%   { left:0px; top:30px;filter: brightness(1);}
+    0%   { left:0px; top:30px;filter: brightness(2);}
    
-    100% { left:60%; top:30px;filter: brightness(1.6);opacity: 0;}
+    100% { left:60%; top:30px;filter: brightness(1.6);opacity: .1;}
   }
   
 @keyframes shake {
