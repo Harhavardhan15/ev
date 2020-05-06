@@ -173,6 +173,11 @@ text-align: center;
         }.profile{
             width: 90%;
         }
+    hr{
+    width:15%;
+    }
+    .top-cont{
+        min-height:100vh;
 }
 
 
